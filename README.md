@@ -17,6 +17,9 @@ The mount is the second part of the caster that we are making. I made the same p
 
 The fork was pretty quick to make, with one extrusion for the middle disc piece, one for the fork prongs on the bottom, and one for the tube on the top. There was also an additional cut for the hole through the prongs. This was my first time mirroring in onshape, and it was super easy and helpful. I also added chamfers and fillets along some of the edges.
 
+### Tire
+<img src="Media/tire.png" width="500">
 
+The tire was a super simple and easy assignment, with the only real new things being learning how to revolve in onshape. Something interesting that I learned about dimensioning, is that when you select something parallel to a centerline, and a centerline, if you have your mouse above the centerline, it shows you the plain distance between the two, but if you move your mouse below the line, it shows you double. When you are planning to revolve, this is basically just the radius and the diameter.
 
 <*note*img src="Media/name_of_file" width="width_you_want">
