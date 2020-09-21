@@ -22,4 +22,9 @@ The fork was pretty quick to make, with one extrusion for the middle disc piece,
 
 The tire was a super simple and easy assignment, with the only real new things being learning how to revolve in onshape. Something interesting that I learned about dimensioning, is that when you select something parallel to a centerline, and a centerline, if you have your mouse above the centerline, it shows you the plain distance between the two, but if you move your mouse below the line, it shows you double. When you are planning to revolve, this is basically just the radius and the diameter.
 
+### Wheel
+<img src="Media/wheel.png" width="500">
+
+Again, this part was pretty quick and not that hard to make. I learned a bit more about selecting areas of a sketch to revolve or extrude, and I think it's nice that you can just select one region of a sketch to extrude or revolve. I also got more practice with how you relation things in onshape. Additionally, while making the wheel I got to change the render options, which isn't that exciting, but it was helpful to be able to look at the part with hidden edges. This picture is of the part shaded without edges, which is part of why everything looks so smooth.
+
 <*note*img src="Media/name_of_file" width="width_you_want">
