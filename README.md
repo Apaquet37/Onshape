@@ -27,4 +27,18 @@ The tire was a super simple and easy assignment, with the only real new things b
 
 Again, this part was pretty quick and not that hard to make. I learned a bit more about selecting areas of a sketch to revolve or extrude, and I think it's nice that you can just select one region of a sketch to extrude or revolve. I also got more practice with how you relation things in onshape. Additionally, while making the wheel I got to change the render options, which isn't that exciting, but it was helpful to be able to look at the part with hidden edges. This picture is of the part shaded without edges, which is part of why everything looks so smooth.
 
+### Axle, Collar, and Bearings
+<img src="Media/axle.png" width="300"> Axle
+<img src="Media/collar.png" width="300"> Collar
+<img src="Media/axleandcollar.png" width="300"> 
+Axle and Collar
+<img src="Media/bearing.png" width="300"> 
+Bearing
+<img src="Media/wheelandbearing.png" width="300"> 
+Bearing and Wheel
+<img src="Media/washer.png" width="300"> 
+Washer
+
+In this assignment, I made a few little pieces for the assmebly. Two of the parts were a washer and a bearing, which were super simple,and the third part was the collar, which was also really easy, but it took me a few tries to get the hole in it right. The most complex part from this assignment was the axle, but the most important part of that was just making sure you extruded it midplane, or as it is called in onshape, "symmetric".
+
 <*note*img src="Media/name_of_file" width="width_you_want">
