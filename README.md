@@ -41,11 +41,11 @@ Washer
 
 In this assignment, I made a few little pieces for the assmebly. Two of the parts were a washer and a bearing, which were super simple,and the third part was the collar, which was also really easy, but it took me a few tries to get the hole in it right. The most complex part from this assignment was the axle, but the most important part of that was just making sure you extruded it midplane, or as it is called in onshape, "symmetric".
 
-### Subassembly
+### Sub-Assembly
 <img src="Media/subassembly.png" width="400">
 The subassembly was a nice intro into how mates work in onshape. In this assignment, I put together the wheel, tire, axle, and bearings. First thing I fastened the wheel to the origin, and then I used a fastened mate to put the wheel and the tire together. After that, I used revolute mates for everything that involved the axle, because I wanted it to still be able to spin.
 
+### Assembly
+<img src="Media/caster1.png" width="400"> <img src="Media/caster2.png" width="400"> 
 
-
-
-<*note*img src="Media/name_of_file" width="width_you_want">
+This was the final assembly for the caster. It was really fast and not super complicated, but it was good practice for doing mates in onshape. One new mate type that I used was parallel, which was put in to make the flat of the axle line up with the hole in the collar. I also added in hardware to all the holes, which is sometimes a bit finnicky, but not too hard once you get the hang of it. Overall, I really like onshape and I feel like it is super easy to use and convenient, as well as powerful.
