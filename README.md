@@ -41,4 +41,11 @@ Washer
 
 In this assignment, I made a few little pieces for the assmebly. Two of the parts were a washer and a bearing, which were super simple,and the third part was the collar, which was also really easy, but it took me a few tries to get the hole in it right. The most complex part from this assignment was the axle, but the most important part of that was just making sure you extruded it midplane, or as it is called in onshape, "symmetric".
 
+### Subassembly
+<img src="Media/subassembly.png" width="400">
+The subassembly was a nice intro into how mates work in onshape. In this assignment, I put together the wheel, tire, axle, and bearings. First thing I fastened the wheel to the origin, and then I used a fastened mate to put the wheel and the tire together. After that, I used revolute mates for everything that involved the axle, because I wanted it to still be able to spin.
+
+
+
+
 <*note*img src="Media/name_of_file" width="width_you_want">
