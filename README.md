@@ -28,8 +28,8 @@ The tire was a super simple and easy assignment, with the only real new things b
 Again, this part was pretty quick and not that hard to make. I learned a bit more about selecting areas of a sketch to revolve or extrude, and I think it's nice that you can just select one region of a sketch to extrude or revolve. I also got more practice with how you relation things in onshape. Additionally, while making the wheel I got to change the render options, which isn't that exciting, but it was helpful to be able to look at the part with hidden edges. This picture is of the part shaded without edges, which is part of why everything looks so smooth.
 
 ### Axle, Collar, and Bearings
-<img src="Media/axle.png" width="300"> Axle
-<img src="Media/collar.png" width="300"> Collar
+<img src="Media/axle.png" width="350"> Axle
+<img src="Media/collar.png" width="350"> Collar
 <img src="Media/axleandcollar.png" width="300"> 
 Axle and Collar
 <img src="Media/bearing.png" width="300"> 
