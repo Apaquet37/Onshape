@@ -49,3 +49,6 @@ The subassembly was a nice intro into how mates work in onshape. In this assignm
 <img src="Media/caster1.png" width="400"> <img src="Media/caster2.png" width="400"> 
 
 This was the final assembly for the caster. It was really fast and not super complicated, but it was good practice for doing mates in onshape. One new mate type that I used was parallel, which was put in to make the flat of the axle line up with the hole in the collar. I also added in hardware to all the holes, which is sometimes a bit finnicky, but not too hard once you get the hang of it. Overall, I really like onshape and I feel like it is super easy to use and convenient, as well as powerful.
+
+
+## Dorothy's Dowel Pins
