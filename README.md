@@ -53,3 +53,19 @@ This was the final assembly for the caster. It was really fast and not super com
 
 ## Dorothy's Dowel Pins
 https://cvilleschools.onshape.com/documents/f0cab9b95e11e3646c66f0a4/w/4ec291adc2526720ec69162f/e/7758dab924e0bafdede958e0?configuration=List_TSO9YQEUfRF2gZ%3D_1_1_2_inch%3BList_iwZXpJt2otbazf%3DDefault
+
+
+Dowels:
+
+<img src="Media/dowelconfigs.png" width="400"> 
+
+Frame pieces:
+
+<img src="Media/frameconfigs.png" width="400"> 
+
+Finished frame:
+
+<img src="Media/frame.png" width="400"> 
+<img src="Media/framenormal.png" width="400"> 
+<img src="Media/frameiso.png" width="400"> 
+
