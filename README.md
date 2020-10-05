@@ -54,14 +54,15 @@ This was the final assembly for the caster. It was really fast and not super com
 ## Dorothy's Dowel Pins
 https://cvilleschools.onshape.com/documents/f0cab9b95e11e3646c66f0a4/w/4ec291adc2526720ec69162f/e/7758dab924e0bafdede958e0?configuration=List_TSO9YQEUfRF2gZ%3D_1_1_2_inch%3BList_iwZXpJt2otbazf%3DDefault
 
+This assignment was an introduction to configurations in onshape, as well as more practice with mating in assemblies. We were to pretend we had a client, who wanted the same part with a few slight changes each time, leading us to turn to configurations. This let us make the dowel pins longer or shorter, wider and narrower, and with and without a chamfer. We then made a frame by putting four trapezoids together with the dowels.
 
 Dowels:
 
-<img src="Media/dowelconfigs.png" width="400"> 
+<img src="Media/dowelconfigs.png" width="350"> <img src="Media/configtable1.png" width="200"> <img src="Media/configtable2.png" width="200"> <img src="Media/configtable3.png" width="200"> 
 
 Frame pieces:
 
-<img src="Media/frameconfigs.png" width="400"> 
+<img src="Media/frameconfigs.png" width="350"> <img src="Media/configtable4.png" width="200">
 
 Finished frame:
 
