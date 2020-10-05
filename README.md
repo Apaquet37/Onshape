@@ -56,13 +56,15 @@ https://cvilleschools.onshape.com/documents/f0cab9b95e11e3646c66f0a4/w/4ec291adc
 
 This assignment was an introduction to configurations in onshape, as well as more practice with mating in assemblies. We were to pretend we had a client, who wanted the same part with a few slight changes each time, leading us to turn to configurations. This let us make the dowel pins longer or shorter, wider and narrower, and with and without a chamfer. We then made a frame by putting four trapezoids together with the dowels.
 
+I felt like this assignment was pretty easy, it just had some new skills to learn. In solidworks, configurations are pretty hard and complicated to set up, but in onshape they are super easy. All you have to do is create a table, click on the feature, dimension, extrude, etc. that you want to configure, and then you plug in all the different values needed (or check/uncheck supressed if you're working with a feature). You can even name the configurations whatever you want, which makes it easy when changing between them. Then, when you are putting the configured parts into an assembly, there is a series of dropdowns menus where you choose how you want the part to be, and then you click generate and out the part into the assembly. Additionally something else that I was able to learn this assignment was how to extrude parts of a sketch separately, which is how I drew both circles in the frame in one sketch, but then was able to extrude them different lengths for differently sized dowel holes.
+
 Dowels:
 
-<img src="Media/dowelconfigs.png" width="350"> <img src="Media/configtable1.png" width="200"> <img src="Media/configtable2.png" width="200"> <img src="Media/configtable3.png" width="200"> 
+<img src="Media/dowelconfigs.png" width="300"> <img src="Media/configtable1.png" width="200"> <img src="Media/configtable2.png" width="200"> <img src="Media/configtable3.png" width="200"> 
 
 Frame pieces:
 
-<img src="Media/frameconfigs.png" width="350"> <img src="Media/configtable4.png" width="200">
+<img src="Media/frameconfigs.png" width="300"> <img src="Media/configtable4.png" width="250">
 
 Finished frame:
 
