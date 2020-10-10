@@ -72,3 +72,11 @@ Finished frame:
 <img src="Media/framenormal.png" width="400"> 
 <img src="Media/frameiso.png" width="400"> 
 
+## Onshape Challenge
+https://cvilleschools.onshape.com/documents/053f60fa3df9062a2b5c11ba/w/58e26a51bb5433713f4e8520/e/2593de761b963eef4c82d7ca
+
+This challenge was pretty easy, but there were some new features, and fewer specific directions than usual. For the bracket you needed to make a thin feature, which was new, and for the spinner shafts we had some freedom with the cuts. In the assembly, there were only five mates total. One to fasten a part to the origin, two cylinder mates for the spinner shafts to the bracket, and two revolute mates for the cube to the spinner shafts.
+
+I learned quite a few new things during this assignment. The first was how to make a thin feature, which is when you have an open sketch, but then extrude from both sides and add depth. The best way I figured out how to do this was to make the sketch, extrude it as a surface however deep you want, and then extrude the surface symmetrically for how wide you want it to be. You can hide the surface once you're done if you don't want a line through the part. I also learned what cylinder mates are. Cylinder mates have two degrees of freedom (as opposed to one with revolute mates), a side to side or up and down motion, plus circular motion like a revolute mate.
+
+<img src="Media/cube.png" width="200"> <img src="Media/spinnershaft.png" width="200"> <img src="Media/bracket.png" width="200"> <img src="Media/challenge.png" width="200"> 
